@@ -1,4 +1,4 @@
-## Oii, eu sou o Isaque!
+## Oii eu sou o Isaque!
 <div style="display: inline">
   <a href="https://github.com/isaquecm">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isaquecm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
