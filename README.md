@@ -1,5 +1,4 @@
-## Hello, i am Isaque!
-<div style="display: inline">
+## Hello, i am Isaque! I'm studying Systems Analysis and Development at Universidade Nove de Julho - UNINOVE<div style="display: inline">
   <a href="https://github.com/isaquecm">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=isaquecm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquecm&layout=compact&langs_count=7&theme=tokyonight"/>
